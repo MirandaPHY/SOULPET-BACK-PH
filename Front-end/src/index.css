@@ -1,0 +1,22 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    min-height: 75vh;
+    max-height: 100vh;
+}
+
+html,
+body {
+    margin: 0;
+}
+
+
+main {
+    min-height: 75vh;
+}
